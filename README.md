@@ -29,7 +29,6 @@ To use this script, follow these steps:
 
 - Exercise caution when selecting the options to delete files or run disk cleanup, as some actions cannot be undone.
 - It is recommended to create a backup of any important files before performing disk cleanup tasks.
-- These actions will be executed immediately upon option selection, make sure to check the input number before hitting enter.
 
   
 ## License
@@ -40,6 +39,12 @@ This script is open-source and released under the [MIT License](https://opensour
 Happy computing!
 
 This script is open-source and released under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute this script as per the terms of the license.
+
+## Warning
+
+These actions will be executed immediately upon option selection, make sure to check your input before entering your option. These commands are powerful and should only be used once you fully understand
+what exactly each option will do. Once you utilize disk cleanup you will not be able to recover what was cleaned.
+
 
 ## Support
 
