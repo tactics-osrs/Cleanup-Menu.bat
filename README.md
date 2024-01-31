@@ -43,7 +43,7 @@ This script is open-source and released under the [MIT License](https://opensour
 ## Warning
 
 These actions will be executed immediately upon option selection, make sure to check your input before entering your option. These commands are powerful and should only be used once you fully understand
-what exactly each option will do. Once you utilize disk cleanup you will not be able to recover what was cleaned.
+what exactly each option will do. Once you utilize disk cleanup you will not be able to recover what was cleaned. Same goes for system temp files.
 
 
 ## Support
