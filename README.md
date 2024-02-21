@@ -4,10 +4,11 @@ This script provides various options for performing disk/computer cleanup tasks 
 
 ## Features
 
-- **Delete temporary files**: Selecting option 1 will delete all temporary files located in the system's temp folder. Warning: This action irreversibly deletes all temporary files. Make sure you don't have any important unsaved files stored in the temp folder.
+- **Delete temporary files**: Selecting option 1 will delete all temporary files located in the system's temp folder.
+  * Warning: This action irreversibly deletes all temporary files. Make sure you don't have any important unsaved files stored in the temp folder.(Very Uncommon)
 - **Open recycle bin**: Option 2 opens the recycle bin in Windows Explorer, allowing you to view and restore deleted files if needed.
-- **Remove unnecessary files**: Option 3 will remove unnecessary files from the system's temp folder. Warning: This action permanently deletes files from the temp folder. Make sure you don't require any of the files being removed.
-- **Disk clean up**: Selecting option 4 runs the built-in disk cleanup utility on your computer. This utility helps free up disk space by removing unnecessary files and folders. Warning: Running disk cleanup may delete files that can't be recovered. Make sure you review the list of files being deleted before proceeding.
+- **Disk clean up**: Selecting option 4 runs the built-in disk cleanup utility on your computer. This utility helps free up disk space by removing unnecessary files and folders.
+  * Warning: Running disk cleanup may delete files that can't be recovered. Make sure you review the list of files being deleted before proceeding.
 
 ## Getting Started
 
