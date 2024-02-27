@@ -79,6 +79,7 @@ if "%choice%"=="5" (
 
 if "%choice%"=="6" (
     echo Here are the functions:
+	echo.
     echo 1. Open recycle bin: Opens the recycle bin via directory.
 	echo.
     echo 2. Delete temporary files: Removes temp files, directories, and subdirectories, then creates clean directory files them.
