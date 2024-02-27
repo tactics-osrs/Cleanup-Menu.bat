@@ -4,7 +4,6 @@ REM Written By: Tactics
 
 @echo off
 color 0A
-
 :Start
 cls
 echo.
