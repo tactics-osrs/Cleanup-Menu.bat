@@ -40,7 +40,6 @@ This script is open-source and released under the [MIT License](https://opensour
 
 Happy computing!
 
-This script is open-source and released under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute this script as per the terms of the license.
 
 ## Warning
 
