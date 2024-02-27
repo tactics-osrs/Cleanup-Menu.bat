@@ -1,6 +1,6 @@
 # Cleanup-Menu
 
-This script provides various options for performing disk/computer cleanup tasks on your computer. It allows you to delete temporary files, open the recycle bin, remove unnecessary files, and run the disk cleanup utility.
+This script provides various options for performing disk/system/computer cleanup tasks on your computer. It allows you to delete temporary files, open the recycle bin, remove unnecessary files, and run the disk cleanup utility.
 
 ## Features
 - **Help Option**: Added a help menu to give a brief description of what each menu option does!
